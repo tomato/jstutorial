@@ -17,3 +17,11 @@ var displayTimes2 = function(i){
 };
 
 var z = displayTimes2(2000);
+
+//callbacks
+var longRunning = function(callback){
+  for(var i = 0; i < 1000000; i++){
+    // do nothing
+  }
+  callback();
+};
