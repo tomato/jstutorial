@@ -1,15 +1,15 @@
 
 //javascript types
-var a = true; //boolean
-var b = 'fish'; //string
-var c = 1; //Number
-var d = NaN; //Number
-var e = {}; //object
-var f = []; //object
-var g = function(x) { return x * 2;}; //object
+var a1 = true; //boolean
+var b1 = 'fish'; //string
+var c1 = 1; //Number
+var d1 = NaN; //Number
+var e1 = {}; //object
+var f1 = []; //object
+var g1 = function(x) { return x * 2;}; //object
 
-var h = null; //object?????
-var i; //undefined
+var h1 = null; //object?????
+var i1; //undefined
 //typeof a;
 
 // Equality operators & coersion
